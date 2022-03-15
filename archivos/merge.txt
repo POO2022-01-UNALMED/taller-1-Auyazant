@@ -1,3 +1,6 @@
 Andres Camilo Uyazan Torres
 21 años
 Estoy muy feliz y con gran emocion al ver esta materia porque es un reto para mi, recordar fundamentos de programacion y aprender mas.
+Ahora si se puede crear la carpeta, desde Git hub web lo puedo hacer.
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo? porque pueden generar un conflicto con 
+el archivo que se edite y por lo tanto debe resolverse de manera manual con un editor de texto
