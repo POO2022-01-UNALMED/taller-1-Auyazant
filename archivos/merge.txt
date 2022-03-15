@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Andres Camilo Uyazan Torres
-21 años
-Estoy muy feliz y con gran emocion al ver esta materia porque es un reto para mi, recordar fundamentos de programacion y aprender mas.
-=======
-Ahora si se puede crear la carpeta, desde Git hub web lo puedo hacer.
->>>>>>> ea9ebdfc053e3b58f37de60658a70acf4d43f6d0
